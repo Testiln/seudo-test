@@ -1,0 +1,2 @@
+Los pacientes llegan a la clínica de un médico de acuerdo con una distribución de Poisson
+a razón de 20 pacientes por hora. La sala de espera no puede acomodar más de 14 pacientes. El tiempo de consulta por paciente es exponencial, con una media de 8 minutos.(a) ¿Cuál es la probabilidad de que un paciente que llegue no espere?(b) ¿Cuáles la probabilidad de que un paciente que llegue encuentre un asiento en la sala?(c) ¿Cuál es el tiempo total esperado que un paciente pasa en la clínica?
